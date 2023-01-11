@@ -113,3 +113,7 @@ See `COPYING <COPYING>`_ to see the full text.
 .. |CII Best Practices| image:: https://bestpractices.coreinfrastructure.org/projects/2372/badge
    :target: https://bestpractices.coreinfrastructure.org/projects/2372
    :alt: Ansible CII Best Practices certification
+   
+   
+   最流行的 Python 图像处理库
+它的诞生是由于 PIL 的年久失修，现已于 2011 年停止维护，所以开源爱好者们就在 PIL 的基础上创建了 Pillow。该库支持丰富的图像格式和强大的图像处理功能，如果你要用 Python 处理图像，它绝对是不二之选
